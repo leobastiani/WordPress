@@ -1,0 +1,14 @@
+{
+    "name": "leonardo/word-press",
+    "type": "project",
+    "authors": [
+        {
+            "name": "leobastiani",
+            "email": "leogbastiani@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "heroku/heroku-buildpack-php": "dev-master"
+    }
+}
